@@ -1,0 +1,1 @@
+"""Thumbnail analytics helpers placeholder."""

@@ -1,0 +1,1 @@
+"""Competitor analytics helpers placeholder."""
